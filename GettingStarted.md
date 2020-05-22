@@ -1,7 +1,8 @@
 # GettingStartedWithGitHub
 Training Repo for New Teachers at Rock Valley College
 
-Click the Wiki tab to learn more about how to use GitHub. - Chuck
+* Click the Wiki tab to learn more about how to use GitHub. - Chuck
+* Click the Teams tab to access your team. Your team has repos and discussions.
  
 # Integrate GitHub into Visual Studio
 I create a new podcast each semester showing students how to integrate GitHub into Visual Studio.
